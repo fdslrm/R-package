@@ -12,7 +12,7 @@ To install, you can either clone the directory with Git or download a .zip file 
 
 Download a .zip of fdslrm from
 
-- https://github.com/fdslrm/R-package/releases
+- https://github.com/gajdosandrej/fdslrm/releases
 
 After unzipping, you will need to open fdslrm.Rproj.
 
@@ -20,7 +20,7 @@ After unzipping, you will need to open fdslrm.Rproj.
 
 To clone the fdslrm repository, first navigate in a terminal to where you want the repository cloned, then type
 ```
-git clone https://github.com/fdslrm/R-package.git
+git clone https://github.com/gajdosandrej/fdslrm.git
 ```
 and you will need to open fdslrm.Rproj.
 
@@ -28,7 +28,7 @@ and you will need to open fdslrm.Rproj.
 
 You can download package from 
 
-- https://github.com/fdslrm/R-package/releases
+- https://github.com/gajdosandrej/fdslrm/releases
 
 in install packages in RStudio you chose Package Archive File (.tar.gz).
 
@@ -36,7 +36,7 @@ in install packages in RStudio you chose Package Archive File (.tar.gz).
 
 Just run the following command in your RStudio console:
 ```
-devtools::install_github("fdslrm/R-package")
+devtools::install_github("gajdosandrej/fdslrm")
 ```
 
 Acknowledgements
